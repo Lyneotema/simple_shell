@@ -129,7 +129,7 @@ int _putfd(char c, int fd);
 void _eputs(char *);
 int _putsfd(char *str, int fd);
 
-/* sstring_g.c */
+/* ed_string.c */
 int _strcmp(char *, char *);
 char *starts_with(const char *, const char *);
 int _strlen(char *);
