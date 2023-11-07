@@ -146,9 +146,9 @@ char *_strncat(char *, char *, int);
 char *_strncpy(char *, char *, int);
 char *_strchr(char *, char);
 
-/* token_izer.c */
-char **strtow(char *, char *);
-char **strtow2(char *, char);
+/* tokenizer_ByEd.c */
+char **stringtow(char *, char *);
+char **stringtow2(char *, char);
 
 /* realloc4.c */
 void ffree(char **);
