@@ -151,10 +151,6 @@ char *_strchr(char *, char);
 char **stringtow(char *, char *);
 char **stringtow2(char *, char);
 =======
-/* tokenizer_ByEd.c */
-char **stringtow(char *, char *);
-char **stringtow2(char *, char);
->>>>>>> edkainah/project_code
 
 /* realloc4.c */
 void ffree(char **);
